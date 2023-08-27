@@ -14,10 +14,6 @@
 
 <br>
 
-<hr>
-<br>
-<br>
-
 ## 💻 Projeto <a name = "projeto"></a>
 
 ### Objetivo:
